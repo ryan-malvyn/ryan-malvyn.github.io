@@ -1,16 +1,39 @@
-### Hi there 👋
+# Career
 
-<!--
-**ryan-malvyn/ryan-malvyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
++ Private English Teacher ( Dec 2022 - Now )
++ Front End Web Developer for a private company ( Nov 2022 - Now )
++ Freelance Real Estate Photographer
 
-Here are some ideas to get you started:
+# Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
++ Science Major in SMAK Penabur Gading Serpong
++ Junior High in SMPK Penabur Gading Serpong
++ Graduated from Tunghai University's International Business Administration Program
++ CodeCademy Front End Web Developer Roadmap
+
+# Relevant Coursework
+
++ Programming and Data Science in R
++ Financial Management
++ Organizational Behavior
++ Data Analytics in R
++ SAS Programming
++ Economics
++ Calculus & Pre-Calculus
++ Accounting
++ Financial Literacy
+
+# Languages
+
++ English - Working Proficiency ( IELTS 7.5/9 )
++ Indonesian Language - Native Fluency
++ Chinese - Basic
+
+# Hobbies and Passion
+
++ Photography
++ Filmmaking
++ Motorcycle Riding
++ Basketball
++ Fitness
++ Reading
